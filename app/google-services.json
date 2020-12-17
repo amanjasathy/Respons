@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "80781244692",
+    "firebase_url": "https://my-quiz-abac1-default-rtdb.firebaseio.com",
+    "project_id": "my-quiz-abac1",
+    "storage_bucket": "my-quiz-abac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80781244692:android:c425bc6b8b310fa71eaa01",
+        "android_client_info": {
+          "package_name": "com.example.respons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80781244692-9tgg5mjjin627ol9ulu62bk07o7iscqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Go7FkjsyRUarU3twplow39sAnQAfuXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80781244692-9tgg5mjjin627ol9ulu62bk07o7iscqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80781244692:android:96c04f3b1ad73c721eaa01",
+        "android_client_info": {
+          "package_name": "om.example.quizadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80781244692-rb6i5v38o6ebi8p3aur4l4e3jd39fldv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "om.example.quizadmin",
+            "certificate_hash": "fda77a45d7d6a65f99c25fa00e402dbc4f06eb37"
+          }
+        },
+        {
+          "client_id": "80781244692-9tgg5mjjin627ol9ulu62bk07o7iscqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Go7FkjsyRUarU3twplow39sAnQAfuXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80781244692-9tgg5mjjin627ol9ulu62bk07o7iscqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
